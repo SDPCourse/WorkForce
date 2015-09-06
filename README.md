@@ -1,1 +1,2 @@
 # WorkForce
+<b>Employee scheduling software</b> automates the process of creating and maintaining a schedule. Such software will usually track vacation time, sick time, compensation time, and alert when there are conflicts. As scheduling data is accumulated over time, it may be extracted for payroll or to analyze past activity. Although employee scheduling software may or may not make optimization decisions, it does manage and coordinate the tasks.
