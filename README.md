@@ -7,6 +7,10 @@ Our Goal is to make employee scheduling software which make optimization decisio
 
 **Note: :warning: This project is under development.**
 
+## Motivation
+==
+==
+
 ## Definitions
 
 ### Employee:
@@ -19,8 +23,30 @@ is time off from work that workers can use to stay home to address their health 
 * فارسی (fa_IR)
 * English (en_US)
 
-## Installation
+## Installation & Configuration
  Visit https://github.com/SDPCourse/WorkForce
+ 
+## Requirements 
+==
+## Technologies Used
+
+| Client Side | Server Side |
+|:-------------------:|:-------------------:|
+
+| [Bootstrap 3](http://getbootstrap.com/) ![Bootstrap](https://avatars2.githubusercontent.com/u/2918581?s=25) | [VS](http://www.vagrantup.com/) <img src="http://nickmeldrum.com/media/visual-studio-2010-logo.png" height="30" width="35" />| 
+
+#### Architecture Diagram
+## Tests
+## API Reference
+## Authors and Contributors
+## License and Copyright
+## Contact
+
+
+
+
+
+
  
  
 
