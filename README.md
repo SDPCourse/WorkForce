@@ -31,8 +31,8 @@ is time off from work that workers can use to stay home to address their health 
 | Client Side | Server Side |
 |:-------------------:|:-------------------:|
 
-[Bootstrap](https://avatars2.githubusercontent.com/u/2918581?s=25) | 
-[VS](http://www.vagrantup.com/) <img src="http://nickmeldrum.com/media/visual-studio-2010-logo.png" height="30" width="35"/>
+
+|[Bootstrap](https://avatars2.githubusercontent.com/u/2918581?s=25) | [VS](http://www.vagrantup.com/) <img src="http://nickmeldrum.com/media/visual-studio-2010-logo.png" height="30" width="35"/>|
 
 ## Architecture Diagram
 ## Tests
